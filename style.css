@@ -1,0 +1,10 @@
+#source-code { display: none; }
+
+#source-code:target { 
+    display: block; 
+    background-color: fff;
+    width: 80%;
+    margin-left: 10%;
+    text-align: left;
+    word-break:break-all;
+}
